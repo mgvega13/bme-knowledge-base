@@ -6,3 +6,7 @@ ECG (Electrocardiogram) measures the electrical activity of the heart.
 - P wave
 - QRS complex
 - T wave
+## Signal processing techniques
+- Filtering
+- Noise removal
+- Feature extraction
